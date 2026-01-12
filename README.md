@@ -1,4 +1,4 @@
-# Using `bleak` to Detect and Log Nearby Bluetooth Devices
+# Using `bleak` to Detect and Log Nearby Low Energy (LE) Bluetooth Devices
 
 ## Objective
 
